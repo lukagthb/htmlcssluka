@@ -31,7 +31,8 @@ text-align: center;
 }
 
 #knop{
-  margin-bottom: 20px;
+  margin-bottom: 1100000px;
+  text-align: center;
 }
 
 body{
@@ -58,7 +59,7 @@ body{
 .nav-bar li:hover{
   background-color: grey;
   font-size: 40px;
-  transition: 0,3;  
+  transition: 0,3;
 }
 .nav-bar a{
   text-decoration: none;
